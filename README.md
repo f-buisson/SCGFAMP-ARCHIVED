@@ -219,9 +219,22 @@ Le projet vise l’innovation frugale et éthique.
 
 ## 🔬 Clarification scientifique
 
-> ❗ **SCGFAMP n’est pas une machine à mouvement perpétuel.**  
-> Le système repose sur des équilibres naturels (gravité, pression, flottabilité).  
-> Il y a pertes (frottements, fuites, inertie) et besoin d’un amorçage.  
+❗️**SCGFAMP n’est pas une machine à mouvement perpétuel.**
+
+Le système repose sur des **cycles physiques naturels** utilisant la gravité, la flottabilité et la régulation air/fluides, dans un environnement fermé.
+
+Il nécessite des **apports extérieurs** (configuration initiale, rééquilibrages occasionnels, prise d’air atmosphérique) et subit des **pertes d’énergie** (frottements des fluides, chaleur, résistances mécaniques).
+
+👉 L’objectif n’est **pas de créer de l’énergie à partir de rien**, mais de **gérer le transfert et la récupération d’énergie mécanique ou de pression** dans un format low-tech et accessible.
+
+**SCGFAMP est un outil expérimental et pédagogique**, destiné à stimuler l’innovation biomimétique — **pas à défier les lois de la thermodynamique.**
+
+> _« Ce qui commence comme une idée peut devenir un cycle sur lequel le monde tourne. »_
+
+SCGFAMP est un système expérimental conçu pour inspirer l'innovation low-tech décentralisée.
+
+Si vous êtes chercheur, maker, ingénieur ou acteur des politiques publiques : **vos retours peuvent façonner l’avenir des technologies biomimétiques évolutives.**
+
 >  
 > Objectif : transfert d’énergie utile par des moyens simples, autonomes et accessibles.
 
