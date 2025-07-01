@@ -114,3 +114,116 @@ If you're a researcher, maker, engineer, or policy designer: your feedback can s
 >
 > SCGFAMP is experimental, educational, and intended to stimulate biomimetic innovation — not to defy thermodynamic laws.
 
+# SCGFAMP – Cycle Gravito-Flottant à Assistance Magnétique Passive
+
+**SCGFAMP** est un système **librement accessible pour un usage non commercial**, accompagné d’une **licence commerciale dédiée**.  
+Ce n’est pas un projet open source au sens strict (type MIT ou GPL), mais un **système pseudo-ouvert avec des limites d’usage clairement définies**.
+
+## 🔎 Sommaire
+
+- [💡 Objectif](#-objectif)
+- [⚙️ Fonctionnement](#-fonctionnement)
+- [📁 Documentation](#-documentation)
+- [📜 Licences](#-licences)
+- [✍️ Contribuer](#-contribuer)
+- [🌍 Charte éthique](#-charte-éthique)
+- [📩 Contact](#-contact)
+- [🧭 Feuille de route](#-feuille-de-route-apercu)
+- [🔬 Clarification scientifique](#-clarification-scientifique)
+
+---
+
+## 💡 Objectif
+
+Fournir une base technologique **low-tech, modulaire et scalable**, pour le transfert d’énergie ou de travail mécanique, accessible au public dans un cadre non commercial, et sous licence pour des entités privées, industrielles ou stratégiques.
+
+---
+
+## ⚙️ Fonctionnement
+
+Le système fonctionne à **basse pression (< 1 bar)**, mais le concept peut être adapté à d'autres gammes. Le cycle repose sur :
+
+- Un **système gravito-flottant cyclique** avec **assistance magnétique passive**
+- Une **prise d’air atmosphérique** dans la colonne d’air
+- Une **purge d’air** dans la colonne d’eau
+- Un mécanisme permettant d’**expulser l’eau infiltrée dans la colonne d’air**
+- Une **masse** alternant entre les colonnes via un **système de trappes ou clapets**
+- La masse **tombe dans la colonne d’air** (gravité) puis **remonte dans la colonne d’eau** (flottabilité)
+- Une **chambre tampon** (ou membrane) compense les variations de volume
+
+🌀 Résultat : un **cycle circulaire** qui gère fluides, air et énergie mécaniquement et sans électricité.
+
+---
+
+## 📁 Documentation
+
+| # | Titre | Lien |
+|--|-------|------|
+| 1 | Fonctionnement circulaire, basse pression, masse rigide | [Fonctionnement-Circulaire_Basse-Pression_Masse-Rigide-FR.md](docs/français/Fonctionnement-Circulaire_Basse-Pression_Masse-Rigide-FR.md) |
+| 2 | Diagramme fonctionnel | ![Diagramme](docs/english/2-SCGFAMP%20FUNCTIONAL%20DIAGRAM.png) |
+| 3 | Schéma fonctionnel simplifié | ![Schéma](docs/english/3-SCGFAMP%20FUNCTIONAL%20SCHEMATIC.png) |
+| 4 | Fonctionnement fluide et gaz | [Fonctionnement_fluide_et_gaz.md](docs/français/Fonctionnement_fluide_et_gaz.md) |
+| 5 | Biomimétisme & inspiration | [BIOMIMETISME-SCGFAMP-FR.md](docs/français/BIOMIMETISME-SCGFAMP-FR.md) |
+| 6 | Grilles & modules de base | [SCGFAMP_Grids_Exemples_Modules_De_Base-FR.md](docs/français/SCGFAMP_Grids_Exemples_Modules_De_Base-FR.md) |
+| 7 | Cas d’usage & grilles types | [SCGFAMP_UseCases_Visuel-FR.md](docs/français/SCGFAMP_UseCases_Visuel-FR.md) |
+| 8 | Méthodes de récupération d’énergie | [SCGFAMP_Methodes_Recuperation_Energie-FR.md](docs/français/SCGFAMP_Methodes_Recuperation_Energie-FR.md) |
+| 9 | Aide-mémoire réglementaire | [SCGFAMP_Aide_Memoire_Reglementaire.md](docs/français/SCGFAMP_Aide_Memoire_Reglementaire.md) |
+
+---
+
+## 📜 Licences
+
+SCGFAMP suit un modèle à double licence :
+
+- **Creative Commons BY-NC 4.0** : usage non commercial autorisé avec attribution
+- **Licence commerciale** : requise pour la R&D privée, intégration industrielle, usages militaires ou tout déploiement à but lucratif
+
+Fichiers concernés :
+
+- [LICENSE.md](LICENSE.md)
+- [COMMERCIAL_LICENSE_4200_TERMS.md](COMMERCIAL_LICENSE_4200_TERMS.md)
+- [TRANSITION_TO_COMMERCIAL_USE.md](TRANSITION_TO_COMMERCIAL_USE.md)
+
+---
+
+## ✍️ Contribuer
+
+Toute aide est bienvenue : retours, suggestions, documentation, prototypes.  
+➡️ [CONTRIBUTING.md](CONTRIBUTING.md)
+
+---
+
+## 🌍 Charte éthique
+
+Le projet vise l’innovation frugale et éthique.  
+➡️ [ETHICAL_CHARTER.md](ETHICAL_CHARTER.md)
+
+---
+
+## 📩 Contact
+
+- **Auteur** : Fabien Buisson  
+- **Mail** : scgfamp@hotmail.com  
+- **Version** : v1.0  
+- **Année** : 2025
+
+---
+
+## 🧭 Feuille de route (aperçu)
+
+- [x] 📌 v1.0 – Publication théorique
+- [ ] 📥 v1.1 – Retours & simplifications
+- [ ] ⚙️ v2.0 – Premiers tests physiques communautaires
+
+---
+
+## 🔬 Clarification scientifique
+
+> ❗ **SCGFAMP n’est pas une machine à mouvement perpétuel.**  
+> Le système repose sur des équilibres naturels (gravité, pression, flottabilité).  
+> Il y a pertes (frottements, fuites, inertie) et besoin d’un amorçage.  
+>  
+> Objectif : transfert d’énergie utile par des moyens simples, autonomes et accessibles.
+
+---
+
