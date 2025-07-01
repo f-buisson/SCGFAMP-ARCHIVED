@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="logo-SCGFAMP.png" alt="SCGFAMP Logo" width="200"/>
+</p>
+
+<h1 align="center">SCGFAMP</h1>
+<p align="center"><em>Tap into nature, give back the planet</em></p>
+
+---
+
 # SCGFAMP – Gravitoflotation Cycle with Passive Magnetic Assistance
 
 SCGFAMP is a **freely accessible system for non-commercial use**, accompanied by a **dedicated commercial license**. It is not an open-source project in the strict sense (e.g., MIT, GPL), but rather a **pseudo-open system with clear usage boundaries**.
