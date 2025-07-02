@@ -70,6 +70,14 @@ All key documents of the SCGFAMP system are listed in their logical and numerica
 9. **Regulatory Cheat Sheet**  
    [`9-SCGFAMP_Regulatory_CheatSheet_EN.md`](docs/english/9-SCGFAMP_Regulatory_CheatSheet_EN.md)
 
+## 📚 FAQ – Frequently Asked Questions
+
+Detailed answers to common technical questions, conceptual doubts, and critiques can be found in the following documents:
+
+- 🇬🇧 [FAQ in English](FAQ_EN.md) — an exact English translation of the original French FAQ for international readers.
+
+Please check these resources before posting technical critiques or questions.
+
 ## 📜 Licensing
 SCGFAMP follows a **dual licensing** model:
 
@@ -177,6 +185,16 @@ Le système fonctionne à **basse pression (< 1 bar)**, mais le concept peut êt
 | 7 | Cas d’usage & grilles types | [SCGFAMP_UseCases_Visuel-FR.md](docs/français/SCGFAMP_UseCases_Visuel-FR.md) |
 | 8 | Méthodes de récupération d’énergie | [SCGFAMP_Methodes_Recuperation_Energie-FR.md](docs/français/SCGFAMP_Methodes_Recuperation_Energie-FR.md) |
 | 9 | Aide-mémoire réglementaire | [SCGFAMP_Aide_Memoire_Reglementaire.md](docs/français/SCGFAMP_Aide_Memoire_Reglementaire.md) |
+
+---
+
+## 📚 FAQ – Questions fréquentes
+
+Des réponses aux questions techniques, conceptuelles et critiques fréquentes sont disponibles dans les documents suivants :
+
+- 🇫🇷 [FAQ en français](FAQ_FR.md) — pour une explication détaillée en français du fonctionnement, des hypothèses et des forces mises en jeu.
+
+N'hésitez pas à consulter ces documents avant de formuler une critique ou une question technique.
 
 ---
 
