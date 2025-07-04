@@ -1,42 +1,68 @@
-# COMMERCIAL LICENSE TERMS (SCGFAMP Project)
+# F. Buisson – Commercial License
 
-## License Name
-Commercial License for the use of SCGFAMP System
+**Version**: 1.0  
+**Author**: F. Buisson  
+**Contact**: fbuisson38550@gmail.com  
+**License Scope**: Applies to all current and future projects published on the GitHub repository: [https://github.com/f-buisson](https://github.com/f-buisson)
 
-## Purpose
-This license grants the right to commercially exploit the SCGFAMP system, a biomimetic, low-tech physical and fluidic system, in a private or industrial context.
+---
 
-## Authorized Usage
-- Exclusive use in private, corporate, governmental or defense R&D contexts
-- Deployment in commercial products, processes, or infrastructure
-- Possibility to keep derivative works confidential
+## 🔒 Commercial License Overview
 
-## Terms
-- Non-exclusive and non-transferable. Each independent legal entity (company, agency, division) must purchase a distinct license
-- Duration: 3 months from the date of purchase
-- Price: 4200 € (or equivalent to 1,5 ounces of gold based on the international daily spot price at the time of transaction)
+This license grants you the right to use, adapt, and integrate the projects hosted on this GitHub repository for **commercial purposes**, under the conditions outlined below.
 
-## Restrictions
-- No sublicensing, resale, or redistribution of the original or modified system
-- License does not grant any patent, brand, or exclusive territorial rights
+---
 
-## Enforcement
-- Breach of terms will void the license
-- Any continued use without renewal will be considered infringement
+## 💼 Usage Rights
 
-## Applicable Law
-- Governed by French law
-- Jurisdiction: Commercial Court of Paris, France
+The license entitles the buyer to:
 
-## Disclaimer
--The SCGFAMP system is provided **“as is”**, without any express or implied warranty.  
--This includes, but is not limited to, **guarantees of functionality, safety, durability, accuracy, or fitness for a particular use**.  
+- Use the code, documentation, and ideas in commercial projects.
+- Create derivative works for commercial use.
+- Integrate components into closed-source solutions.
+- Use all current and future projects from this GitHub under this same license.
 
--By acquiring this license, you acknowledge that:
-The system is an **experimental concept**, not a certified or tested product.
-You assume **full responsibility** for any design, adaptation, or usage of the system.
-The author **cannot be held liable** for any direct, indirect, or consequential damages resulting from its use.
+---
 
--Always perform your own testing and risk assessments before any implementation.
+## 💰 License Fee
 
--link to purchase the license : https://scgfamp.lemonsqueezy.com/buy/8430de49-9b31-4802-a4e6-0b24f7f69aad
+- **Price**: 4000€ (EUR) per year (excluding taxes).
+- **Payment Method**: Managed via LemonSqueezy.
+- The license is non-transferable and non-exclusive.
+
+---
+
+## 📄 Included Projects
+
+The license includes, but is not limited to:
+
+- SCGFAMP (Gravitoflotation Concept)
+- MORPH0 (Modular Soft Device Framework)
+- DOUDOU (Plush breathing simulator)
+- WALKPOWER
+- All other future public repositories under f-buisson.
+
+---
+
+## ⚠️ Restrictions
+
+- Resale or sublicensing of the source code is **not allowed**.
+- Use of the content in any way that infringes on third-party rights is prohibited.
+- You may not redistribute free/open-source versions without this commercial license.
+
+---
+
+## 📧 Contact and Support
+
+For commercial inquiries, extended licenses, or multi-year agreements, contact:  
+**fbuisson38550@gmail.com**
+
+---
+
+## ✅ License Validation
+
+Proof of license purchase (invoice from LemonSqueezy or official receipt) may be requested for verification in case of dispute.
+
+---
+
+© 2025 F. Buisson – All rights reserved under this commercial agreement.
