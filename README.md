@@ -1,3 +1,4 @@
+md<br>> 🛑 **ARCHIVED – juillet 2025** : projet figé. Conservez à titre d’étude / fork.<br>
 > 🛑 **Archived Project (July 2025)**
 This project is now frozen. It remains online for consultation, inspiration, or partial reuse.
 It is not under active development, but any contributions, reflections, or derivatives are welcome in the open source spirit.
