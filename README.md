@@ -1,3 +1,16 @@
+> 🛑 **Archived Project (July 2025)**
+This project is now frozen. It remains online for consultation, inspiration, or partial reuse.
+It is not under active development, but any contributions, reflections, or derivatives are welcome in the open source spirit.
+
+## 📘 Lessons & Reflections
+
+- Too complex to scale at this stage
+- Biomimetic inspiration useful but poorly mastered
+- Difficulty balancing magnets, fluids, and energy
+- Utopian but technically rewarding idea
+
+# SCGFAMP — [ARCHIVED]
+
 <p align="center">
   <img src="logo-SCGFAMP.png" alt="SCGFAMP Logo" width="200"/>
 </p>
