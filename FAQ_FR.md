@@ -1,5 +1,12 @@
 # FAQ – SCGFAMP (FR)
 
+## 📘 Leçons & limites identifiées
+- **Aimants** : guides passifs impossibles – trop forts → collage, trop faibles → inefficaces.  
+- **Trappes** : un simple ressort ne compense pas la pression hydraulique ; il faudrait un vérin, donc un apport d’énergie externe.  
+- **Énergie atmosphérique** : l’entrée d’air ne fournit aucune énergie mécanique exploitable.  
+- **Rendement** : même en boucle “parfaite”, le système reste négatif (frottements, turbulences).  
+> Conclusion : SCGFAMP reste une **exploration pédagogique** (biomimétique, low-tech) et sert de base d’étude, pas de prototype productif.
+
 ---
 
 ### « "Prise d’air depuis l’atmosphère", mais c’est une prise d’air vers une chambre d’air pressurisé. »
