@@ -10,6 +10,16 @@ It is not under active development, but any contributions, reflections, or deriv
 - Difficulty balancing magnets, fluids, and energy
 - Utopian but technically rewarding idea
 
+---
+
+### 🗨️ External Discussion
+
+> For a detailed technical critique and community feedback, see the full Reddit thread:  
+> **r/lowtech → [SCGFAMP technical discussion](https://www.reddit.com/r/lowtech/comments/1lq7z74/opensource_project_scgfamp_a_lowtech_system_for/)**
+
+---
+
+
 # SCGFAMP — [ARCHIVED]
 
 <p align="center">
