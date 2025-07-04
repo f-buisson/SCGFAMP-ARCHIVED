@@ -1,5 +1,12 @@
 # FAQ – SCGFAMP (EN)
 
+## 📘 Lessons & Limitations Identified
+- **Magnets**: Passive guides are impossible – too strong → sticking, too weak → ineffective.
+- **Hatchbacks**: A simple spring does not compensate for hydraulic pressure; a cylinder would be required, thus requiring external energy.
+- **Atmospheric Energy**: The air intake does not provide any usable mechanical energy.
+- **Efficiency**: Even in a "perfect" loop, the system remains negative (friction, turbulence).
+> Conclusion: SCGFAMP remains an **educational exploration** (biomimetic, low-tech) and serves as a basis for study, not a productive prototype.
+
 ---
 
 ### "Air intake from the atmosphere", but it's an intake into a pressurized air chamber.
