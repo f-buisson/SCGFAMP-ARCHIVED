@@ -1,10 +1,11 @@
 c[![Dual Licence](https://img.shields.io/badge/License-Dual%20%7C%20CERN--OHL--S%20%2B%20CC--BY--NC--SA_4.0-blue)](governance/DUAL_LICENSE.md)
 [![Commercial](https://img.shields.io/badge/Commercial%20Use-€4000/yr-blue)](governance/COMMERCIAL_LICENSE_EN.md)
 
-md<br>> 🛑 **ARCHIVED – juillet 2025** : projet figé. Conservez à titre d’étude / fork.<br>
-> 🛑 **Archived Project (July 2025)**
-This project is now frozen. It remains online for consultation, inspiration, or partial reuse.
-It is not under active development, but any contributions, reflections, or derivatives are welcome in the open source spirit.
+md<br>> > 🔴 ARCHIVED – juillet 2025 : projet figé. Conservez à titre d’étude / fork.  
+Des pistes d’optimisation ont été envisagées (ex : contrepoids, parois élastiques, mécanismes plus économes) mais restent à approfondir et expérimenter.
+
+🔴 Archived Project (July 2025): This project is now frozen. It remains online for consultation, inspiration, or partial reuse.  
+Some optimization ideas were considered (e.g., counterweights, elastic walls, more efficient mechanisms) but require further study and experimentation.
 
 ## 📘 Lessons & Reflections
 
