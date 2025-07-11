@@ -1,4 +1,4 @@
-[![Dual Licence](https://img.shields.io/badge/License-Dual%20%7C%20CERN--OHL--S%20%2B%20CC--BY--NC--SA_4.0-blue)](governance/DUAL_LICENSE.md)
+c[![Dual Licence](https://img.shields.io/badge/License-Dual%20%7C%20CERN--OHL--S%20%2B%20CC--BY--NC--SA_4.0-blue)](governance/DUAL_LICENSE.md)
 [![Commercial](https://img.shields.io/badge/Commercial%20Use-€4000/yr-blue)](governance/COMMERCIAL_LICENSE_EN.md)
 
 md<br>> 🛑 **ARCHIVED – juillet 2025** : projet figé. Conservez à titre d’étude / fork.<br>
@@ -18,7 +18,7 @@ It is not under active development, but any contributions, reflections, or deriv
 ### 🗨️ External Discussion
 
 > For a detailed technical critique and community feedback, see the full Reddit thread:  
-> **r/lowtech → [SCGFAMP technical discussion](https://www.reddit.com/r/lowtech/comments/1lq7z74/opensource_project_scgfamp_a_lowtech_system_for/)**
+> **r/lowtech → [https://www.reddit.com/r/Lowtechbrilliance/comments/1lpd36y/opensource_project_scgfamp_a_lowtech_system_for/)**
 
 ---
 
