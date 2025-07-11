@@ -39,7 +39,6 @@ The license includes, but is not limited to:
 - SCGFAMP (Gravitoflotation Concept)
 - MORPH0 (Modular Soft Device Framework)
 - DOUDOU (Plush breathing simulator)
-- WALKPOWER
 - All other future public repositories under f-buisson.
 
 ---
