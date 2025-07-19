@@ -75,7 +75,7 @@ All key documents of the SCGFAMP system are listed in their logical and numerica
    [`1-Circular-Operation_Low-Pressure-Rigid-Mass.md`](docs/english/1-Circular-Operation_Low-Pressure-Rigid-Mass.md)
 
 2. **Functional Diagram**  
-   `2-SCGFAMP FUNCTIONAL DIAGRAM.png` ![Diagram](docs/english/2-SCGFAMP%20FUNCTIONAL%20DIAGRAM.png)
+   `2-SCGFAMP FUNCTIONAL DIAGRAM.png` ![Diagram](docs/english/10-functional-diagram-stepUP.jpg)
 
 3. **Functional Schematic**  
    `3-SCGFAMP FUNCTIONAL SCHEMATIC.png` ![Schematic](docs/english/3-SCGFAMP%20FUNCTIONAL%20SCHEMATIC.png)
