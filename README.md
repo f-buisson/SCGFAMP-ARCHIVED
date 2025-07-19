@@ -205,7 +205,7 @@ Le système fonctionne à **basse pression (< 1 bar)**, mais le concept peut êt
 | # | Titre | Lien |
 |--|-------|------|
 | 1 | Fonctionnement circulaire, basse pression, masse rigide | [Fonctionnement-Circulaire_Basse-Pression_Masse-Rigide-FR.md](docs/français/Fonctionnement-Circulaire_Basse-Pression_Masse-Rigide-FR.md) |
-| 2 | Diagramme fonctionnel | ![Diagramme](docs/english/2-SCGFAMP%20FUNCTIONAL%20DIAGRAM.png) |
+| 2 | Diagramme fonctionnel | ![Diagramme](docs/english/10-functional-diagram-stepUP.jpg) |
 | 3 | Schéma fonctionnel simplifié | ![Schéma](docs/english/3-SCGFAMP%20FUNCTIONAL%20SCHEMATIC.png) |
 | 4 | Fonctionnement fluide et gaz | [Fonctionnement_fluide_et_gaz.md](docs/français/Fonctionnement_fluide_et_gaz.md) |
 | 5 | Biomimétisme & inspiration | [BIOMIMETISME-SCGFAMP-FR.md](docs/français/BIOMIMETISME-SCGFAMP-FR.md) |
