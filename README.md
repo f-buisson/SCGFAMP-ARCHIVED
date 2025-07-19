@@ -78,7 +78,7 @@ All key documents of the SCGFAMP system are listed in their logical and numerica
    `2-SCGFAMP FUNCTIONAL DIAGRAM.png` ![Diagram](docs/english/10-functional-diagram-stepUP.jpg)
 
 3. **Functional Schematic**  
-   `3-SCGFAMP FUNCTIONAL SCHEMATIC.png` ![Schematic](docs/english/3-SCGFAMP%20FUNCTIONAL%20SCHEMATIC.png)
+   `3-SCGFAMP FUNCTIONAL SCHEMATIC.png` ![Schematic](docs/english/11-functional-schematic-stepUP.jpg)
 
 4. **Fluid and Gas Operation**  
    [`4-Fluid_And_Gas_Operation.md`](docs/english/4-Fluid_And_Gas_Operation.md)
@@ -206,7 +206,7 @@ Le système fonctionne à **basse pression (< 1 bar)**, mais le concept peut êt
 |--|-------|------|
 | 1 | Fonctionnement circulaire, basse pression, masse rigide | [Fonctionnement-Circulaire_Basse-Pression_Masse-Rigide-FR.md](docs/français/Fonctionnement-Circulaire_Basse-Pression_Masse-Rigide-FR.md) |
 | 2 | Diagramme fonctionnel | ![Diagramme](docs/english/10-functional-diagram-stepUP.jpg) |
-| 3 | Schéma fonctionnel simplifié | ![Schéma](docs/english/3-SCGFAMP%20FUNCTIONAL%20SCHEMATIC.png) |
+| 3 | Schéma fonctionnel simplifié | ![Schéma](docs/english/11-functional-schematic-stepUP.jpg) |
 | 4 | Fonctionnement fluide et gaz | [Fonctionnement_fluide_et_gaz.md](docs/français/Fonctionnement_fluide_et_gaz.md) |
 | 5 | Biomimétisme & inspiration | [BIOMIMETISME-SCGFAMP-FR.md](docs/français/BIOMIMETISME-SCGFAMP-FR.md) |
 | 6 | Grilles & modules de base | [SCGFAMP_Grids_Exemples_Modules_De_Base-FR.md](docs/français/SCGFAMP_Grids_Exemples_Modules_De_Base-FR.md) |
