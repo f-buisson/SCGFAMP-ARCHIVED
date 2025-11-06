@@ -1,3 +1,4 @@
+[![Sponsor](https://img.shields.io/badge/Sponsor-Fabien%20Buisson-6E56CF?style=for-the-badge)](https://github.com/sponsors/f-buisson)
 c[![Dual Licence](https://img.shields.io/badge/License-Dual%20%7C%20CERN--OHL--S%20%2B%20CC--BY--NC--SA_4.0-blue)](governance/DUAL_LICENSE.md)
 [![Commercial](https://img.shields.io/badge/Commercial%20Use-€4000/yr-blue)](governance/COMMERCIAL_LICENSE_EN.md)
 
