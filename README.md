@@ -17,14 +17,6 @@ Some optimization ideas were considered (e.g., counterweights, elastic walls, mo
 
 ---
 
-### 🗨️ External Discussion
-
-> For a detailed technical critique and community feedback, see the full Reddit thread:  
-> **r/lowtech → [https://www.reddit.com/r/Lowtechbrilliance/comments/1lpd36y/opensource_project_scgfamp_a_lowtech_system_for/)**
-
----
-
-
 # SCGFAMP — [ARCHIVED]
 
 <p align="center">
