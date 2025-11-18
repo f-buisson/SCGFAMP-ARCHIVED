@@ -160,7 +160,7 @@ Ce n’est pas un projet open source au sens strict (type MIT ou GPL), mais un *
 - [💡 Objectif](#-objectif)
 - [⚙️ Fonctionnement](#-fonctionnement)
 - [📁 Documentation](#-documentation)
-- [📜 Licences](#-License-&-Usage-Conditions)
+- [📜 Licences](#-Licence-&-Conditions-d’usage)
 - [📩 Contact](#-contact)
 - [🔬 Clarification scientifique](#-clarification-scientifique)
 
