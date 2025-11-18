@@ -37,11 +37,22 @@ SCGFAMP is a **freely accessible system for non-commercial use**, accompanied by
 - [💡 Purpose](#-purpose)
 - [⚙️ How It Works](#-how-it-works)
 - [📁 Documentation](#-documentation)
-- [📜 Licensing](#-licensing)
-- [✍️ Contributing](#-contributing)
-- [🌍 Ethical Charter](#-ethical-charter)
+- [📜 Licensing](#-License-&-Usage-Conditions)
+
+This project is released as **open-hardware**: you are free to **study**, **modify**, **repair** and **reproduce** it.
+
+- **Personal / educational / non-commercial use** → Allowed ✅  
+  (CERN-OHL-S 2.0 + CC BY-NC-SA 4.0)
+
+- **Professional / commercial use** → requires a **dedicated license**  
+  (to support development, cover R&D costs and avoid misuse)  
+  👉 https://scgfamp.lemonsqueezy.com/buy/8430de49-9b31-4802-a4e6-0b24f7f69aad
+
+> **Note:** Commercial-use rights are **automatically granted** if an active  
+> GitHub sponsorship is maintained at the **€350/month tier (or higher)**.  
+> If the sponsorship is downgraded or cancelled, commercial authorization **ends immediately**.  
+> No retroactive or permanent rights are kept after sponsorship stops.)
 - [📩 Contact](#-contact)
-- [🧭 Roadmap](#-roadmap-preview)
 - [🔬 Scientific Clarification](#-scientific-clarification)
 
 ## 💡 Purpose
@@ -93,7 +104,7 @@ All key documents of the SCGFAMP system are listed in their logical and numerica
 
 ---
 
-## 🔐 License & Usage Conditions
+C
 
 This project is released as **open-hardware**: you are free to **study**, **modify**, **repair** and **reproduce** it.
 
@@ -148,11 +159,8 @@ Ce n’est pas un projet open source au sens strict (type MIT ou GPL), mais un *
 - [💡 Objectif](#-objectif)
 - [⚙️ Fonctionnement](#-fonctionnement)
 - [📁 Documentation](#-documentation)
-- [📜 Licences](#-licences)
-- [✍️ Contribuer](#-contribuer)
-- [🌍 Charte éthique](#-charte-éthique)
+- [📜 Licences](#-License-&-Usage-Conditions)
 - [📩 Contact](#-contact)
-- [🧭 Feuille de route](#-feuille-de-route-apercu)
 - [🔬 Clarification scientifique](#-clarification-scientifique)
 
 ---
