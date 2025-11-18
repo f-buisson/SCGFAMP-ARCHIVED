@@ -34,15 +34,6 @@ SCGFAMP is a **freely accessible system for non-commercial use**, accompanied by
 
 ---
 
-## 🔎 Summary
-
-- [💡 Purpose](#-purpose)
-- [⚙️ How It Works](#-how-it-works)
-- [📁 Documentation](#-documentation)
-- [📜 Licensing](#-License-&-Usage-Conditions)
-
----
-
 ## 💡 Purpose
 To provide a low-tech, scalable, modular technological foundation for energy or mechanical transfer, available for public use under non-commercial terms, and licensed for entities seeking private or strategic benefits.
 
@@ -152,17 +143,6 @@ If you're a researcher, maker, engineer, or policy designer: your feedback can s
 
 **SCGFAMP** est un système **librement accessible pour un usage non commercial**, accompagné d’une **licence commerciale dédiée**.  
 Ce n’est pas un projet open source au sens strict (type MIT ou GPL), mais un **système pseudo-ouvert avec des limites d’usage clairement définies**.
-
----
-
-## 🔎 Sommaire
-
-- [💡 Objectif](#-objectif)
-- [⚙️ Fonctionnement](#-fonctionnement)
-- [📁 Documentation](#-documentation)
-- [📜 Licences](#-Licence-&-Conditions-d’usage)
-- [📩 Contact](#-contact)
-- [🔬 Clarification scientifique](#-clarification-scientifique)
 
 ---
 
