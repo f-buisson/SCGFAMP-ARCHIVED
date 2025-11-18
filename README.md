@@ -32,6 +32,8 @@ Some optimization ideas were considered (e.g., counterweights, elastic walls, mo
 
 SCGFAMP is a **freely accessible system for non-commercial use**, accompanied by a **dedicated commercial license**. It is not an open-source project in the strict sense (e.g., MIT, GPL), but rather a **pseudo-open system with clear usage boundaries**.
 
+---
+
 ## 🔎 Summary
 
 - [💡 Purpose](#-purpose)
@@ -39,24 +41,12 @@ SCGFAMP is a **freely accessible system for non-commercial use**, accompanied by
 - [📁 Documentation](#-documentation)
 - [📜 Licensing](#-License-&-Usage-Conditions)
 
-This project is released as **open-hardware**: you are free to **study**, **modify**, **repair** and **reproduce** it.
-
-- **Personal / educational / non-commercial use** → Allowed ✅  
-  (CERN-OHL-S 2.0 + CC BY-NC-SA 4.0)
-
-- **Professional / commercial use** → requires a **dedicated license**  
-  (to support development, cover R&D costs and avoid misuse)  
-  👉 https://scgfamp.lemonsqueezy.com/buy/8430de49-9b31-4802-a4e6-0b24f7f69aad
-
-> **Note:** Commercial-use rights are **automatically granted** if an active  
-> GitHub sponsorship is maintained at the **€350/month tier (or higher)**.  
-> If the sponsorship is downgraded or cancelled, commercial authorization **ends immediately**.  
-> No retroactive or permanent rights are kept after sponsorship stops.)
-- [📩 Contact](#-contact)
-- [🔬 Scientific Clarification](#-scientific-clarification)
+---
 
 ## 💡 Purpose
 To provide a low-tech, scalable, modular technological foundation for energy or mechanical transfer, available for public use under non-commercial terms, and licensed for entities seeking private or strategic benefits.
+
+---
 
 ## ⚙️ How It Works
 The system operates at low pressure (< 1 bar), though the concept can be adapted to other pressure ranges. The cycle is based on:
@@ -70,6 +60,8 @@ The system operates at low pressure (< 1 bar), though the concept can be adapted
 - A **buffer chamber** (or flexible membrane) compensates water volume fluctuations
 
 The result is a **circular cycle of a mass** (gravity → trapdoor → buoyancy → trapdoor, in loop), which causes **fluid and air displacement**. This is regulated by the **air intake**, **air purge**, and **water expulsion**, maintaining global entropic balance.
+
+---
 
 ## 📁 Documentation
 
@@ -104,7 +96,7 @@ All key documents of the SCGFAMP system are listed in their logical and numerica
 
 ---
 
-C
+## 🔐 License & Usage Conditions
 
 This project is released as **open-hardware**: you are free to **study**, **modify**, **repair** and **reproduce** it.
 
@@ -120,9 +112,13 @@ This project is released as **open-hardware**: you are free to **study**, **modi
 > If the sponsorship is downgraded or cancelled, commercial authorization **ends immediately**.  
 > No retroactive or permanent rights are kept after sponsorship stops.
 
+---
+
 ## 🔗 Official Website
 The official website — [scgfamp.org](https://scgfamp.org) — redirects to the main GitHub repository.  
 It serves as the central access point for documentation, licensing, and project updates.
+
+---
 
 ## 📩 Contact
 **Author:** Fabien Buisson  
@@ -131,6 +127,7 @@ It serves as the central access point for documentation, licensing, and project 
 **Current Version:** v1.0 – Theoretical & Open
 
 ---
+
 **SCGFAMP is an experimental system designed to inspire decentralized low-tech innovation.**
 
 If you're a researcher, maker, engineer, or policy designer: your feedback can shape the future of scalable biomimetic technologies.
@@ -149,10 +146,14 @@ If you're a researcher, maker, engineer, or policy designer: your feedback can s
 >
 > SCGFAMP is experimental, educational, and intended to stimulate biomimetic innovation — not to defy thermodynamic laws.
 
+---
+
 # SCGFAMP – Cycle Gravito-Flottant à Assistance Magnétique Passive
 
 **SCGFAMP** est un système **librement accessible pour un usage non commercial**, accompagné d’une **licence commerciale dédiée**.  
 Ce n’est pas un projet open source au sens strict (type MIT ou GPL), mais un **système pseudo-ouvert avec des limites d’usage clairement définies**.
+
+---
 
 ## 🔎 Sommaire
 
@@ -203,22 +204,22 @@ Le système fonctionne à **basse pression (< 1 bar)**, mais le concept peut êt
 
 ---
 
-## 🔐 License & Usage Conditions
+## 🔐 Licence & Conditions d’usage
 
-This project is released as **open-hardware**: you are free to **study**, **modify**, **repair** and **reproduce** it.
+Ce projet est publié en **open-hardware** : vous êtes libre de l’**étudier**, le **modifier**, le **réparer** et le **reproduire**.
 
-- **Personal / educational / non-commercial use** → Allowed ✅  
+- **Usage personnel / éducatif / non-commercial** → Autorisé ✅  
   (CERN-OHL-S 2.0 + CC BY-NC-SA 4.0)
 
-- **Professional / commercial use** → requires a **dedicated license**  
-  (to support development, cover R&D costs and avoid misuse)  
+- **Usage professionnel / commercial** → nécessite une **licence dédiée**  
+  (afin de soutenir le développement, couvrir les coûts R&D et éviter les abus)  
   👉 https://scgfamp.lemonsqueezy.com/buy/8430de49-9b31-4802-a4e6-0b24f7f69aad
 
-> **Note:** Commercial-use rights are **automatically granted** if an active  
-> GitHub sponsorship is maintained at the **€350/month tier (or higher)**.  
-> If the sponsorship is downgraded or cancelled, commercial authorization **ends immediately**.  
-> No retroactive or permanent rights are kept after sponsorship stops.
-> 
+> **Note :** Le droit d’usage commercial est **automatiquement accordé** si un
+> sponsoring GitHub est actif au **palier de 350€/mois (ou supérieur)**.  
+> Si le sponsoring est réduit ou annulé, l’autorisation commerciale **prend fin immédiatement**.  
+> Aucun droit rétroactif ou permanent n’est conservé après l’arrêt du sponsoring.
+
 ---
 
 ## 📩 Contact
