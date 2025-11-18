@@ -91,32 +91,23 @@ All key documents of the SCGFAMP system are listed in their logical and numerica
 9. **Regulatory Cheat Sheet**  
    [`9-SCGFAMP_Regulatory_CheatSheet_EN.md`](docs/english/9-SCGFAMP_Regulatory_CheatSheet_EN.md)
 
-## 📚 FAQ – Frequently Asked Questions
+---
 
-Detailed answers to common technical questions, conceptual doubts, and critiques can be found in the following documents:
+## 🔐 License & Usage Conditions
 
-- 🇬🇧 [FAQ in English](FAQ_EN.md) — an exact English translation of the original French FAQ for international readers.
+This project is released as **open-hardware**: you are free to **study**, **modify**, **repair** and **reproduce** it.
 
-Please check these resources before posting technical critiques or questions.
+- **Personal / educational / non-commercial use** → Allowed ✅  
+  (CERN-OHL-S 2.0 + CC BY-NC-SA 4.0)
 
-## 📜 Licensing
-SCGFAMP follows a **dual licensing** model:
+- **Professional / commercial use** → requires a **dedicated license**  
+  (to support development, cover R&D costs and avoid misuse)  
+  👉 https://scgfamp.lemonsqueezy.com/buy/8430de49-9b31-4802-a4e6-0b24f7f69aad
 
-- **Creative Commons BY-NC 4.0**: Non-commercial use permitted with attribution
-- **Commercial license**: Required for private research, industrial integration, defense-related use, or any for-profit deployment
-
-See the full terms:
-- [LICENSE.md](LICENSE.md) – General CC-BY-NC terms
-- [COMMERCIAL_LICENSE_4200_TERMS.md](COMMERCIAL_LICENSE_4000_TERMS.md)
-- [TRANSITION_TO_COMMERCIAL_USE.md](TRANSITION_TO_COMMERCIAL_USE.md)
-
-## ✍️ Contributing
-Contributions are welcome to improve the system, documentation, or implementation ideas.  
-See [CONTRIBUTING.md](CONTRIBUTING.md)
-
-## 🌍 Ethical Charter
-The project adheres to a transparent ethical framework, promoting the common good while limiting harmful applications.  
-See [ETHICAL_CHARTER.md](ETHICAL_CHARTER.md)
+> **Note:** Commercial-use rights are **automatically granted** if an active  
+> GitHub sponsorship is maintained at the **€350/month tier (or higher)**.  
+> If the sponsorship is downgraded or cancelled, commercial authorization **ends immediately**.  
+> No retroactive or permanent rights are kept after sponsorship stops.
 
 ## 🔗 Official Website
 The official website — [scgfamp.org](https://scgfamp.org) — redirects to the main GitHub repository.  
@@ -127,11 +118,6 @@ It serves as the central access point for documentation, licensing, and project 
 **Email:** scgfamp@hotmail.com  
 **Launch Year:** 2025  
 **Current Version:** v1.0 – Theoretical & Open
-
-## 🧭 Roadmap (Preview)
-- v1.0: Core system release + documentation (now)
-- v1.1: Feedback integration + technical refinements (Q3–Q4 2025)
-- v2.0: First physical implementations & community forks
 
 ---
 **SCGFAMP is an experimental system designed to inspire decentralized low-tech innovation.**
@@ -209,43 +195,22 @@ Le système fonctionne à **basse pression (< 1 bar)**, mais le concept peut êt
 
 ---
 
-## 📚 FAQ – Questions fréquentes
+## 🔐 License & Usage Conditions
 
-Des réponses aux questions techniques, conceptuelles et critiques fréquentes sont disponibles dans les documents suivants :
+This project is released as **open-hardware**: you are free to **study**, **modify**, **repair** and **reproduce** it.
 
-- 🇫🇷 [FAQ en français](FAQ_FR.md) — pour une explication détaillée en français du fonctionnement, des hypothèses et des forces mises en jeu.
+- **Personal / educational / non-commercial use** → Allowed ✅  
+  (CERN-OHL-S 2.0 + CC BY-NC-SA 4.0)
 
-N'hésitez pas à consulter ces documents avant de formuler une critique ou une question technique.
+- **Professional / commercial use** → requires a **dedicated license**  
+  (to support development, cover R&D costs and avoid misuse)  
+  👉 https://scgfamp.lemonsqueezy.com/buy/8430de49-9b31-4802-a4e6-0b24f7f69aad
 
----
-
-## 📜 Licences
-
-SCGFAMP suit un modèle à double licence :
-
-- **Creative Commons BY-NC 4.0** : usage non commercial autorisé avec attribution
-- **Licence commerciale** : requise pour la R&D privée, intégration industrielle, usages militaires ou tout déploiement à but lucratif
-
-Fichiers concernés :
-
-- [LICENSE.md](LICENSE.md)
-- [COMMERCIAL_LICENSE_4200_TERMS.md](COMMERCIAL_LICENSE_4000_TERMS.md)
-- [TRANSITION_TO_COMMERCIAL_USE.md](TRANSITION_TO_COMMERCIAL_USE.md)
-
----
-
-## ✍️ Contribuer
-
-Toute aide est bienvenue : retours, suggestions, documentation, prototypes.  
-➡️ [CONTRIBUTING.md](CONTRIBUTING.md)
-
----
-
-## 🌍 Charte éthique
-
-Le projet vise l’innovation frugale et éthique.  
-➡️ [ETHICAL_CHARTER.md](ETHICAL_CHARTER.md)
-
+> **Note:** Commercial-use rights are **automatically granted** if an active  
+> GitHub sponsorship is maintained at the **€350/month tier (or higher)**.  
+> If the sponsorship is downgraded or cancelled, commercial authorization **ends immediately**.  
+> No retroactive or permanent rights are kept after sponsorship stops.
+> 
 ---
 
 ## 📩 Contact
@@ -254,14 +219,6 @@ Le projet vise l’innovation frugale et éthique.
 - **Mail** : scgfamp@hotmail.com  
 - **Version** : v1.0  
 - **Année** : 2025
-
----
-
-## 🧭 Feuille de route (aperçu)
-
-- [x] 📌 v1.0 – Publication théorique
-- [ ] 📥 v1.1 – Retours & simplifications
-- [ ] ⚙️ v2.0 – Premiers tests physiques communautaires
 
 ---
 
