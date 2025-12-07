@@ -15,8 +15,11 @@ Some optimization ideas were considered (e.g., counterweights, elastic walls, mo
 - Difficulty balancing magnets, fluids, and energy
 - Utopian but technically rewarding idea
 
+**Language:** [English](#english) | [Français](#francais)
+
 ---
 
+<a id="english"></a>
 # SCGFAMP — [ARCHIVED]
 
 <p align="center">
@@ -139,6 +142,7 @@ If you're a researcher, maker, engineer, or policy designer: your feedback can s
 
 ---
 
+<a id="francais"></a>
 # SCGFAMP – Cycle Gravito-Flottant à Assistance Magnétique Passive
 
 **SCGFAMP** est un système **librement accessible pour un usage non commercial**, accompagné d’une **licence commerciale dédiée**.  
